@@ -12,9 +12,21 @@
 
 <body>
     <h1>Salary Calculator</h1>
-    <p>Enter your wage per hour</p>
-    <p>Ex. $17.00 per hour would be 17</p>
-    <input placeholder="Enter Wage"></input>
+    <div>
+        <form>
+            <p>Enter your wage per hour</p>
+            <p>Ex. $17.00 per hour would be 17</p>
+            <input id="wage" placeholder="Enter Wage">
+            <p>Enter how many hours per week will you work</p>
+            <input id="hours" placeholder="Enter hours">
+            <button>Submit</button>
+        </form>
+    </div>
+
+    <div>
+        <h3>Your Salary per year is</h3>
+        <p class="salary">Empty</p>
+    </div>
 </body>
 
 </html>
