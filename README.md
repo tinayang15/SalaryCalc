@@ -5,7 +5,7 @@
 
 ## ***Description***
 ***
-#### SalaryCalc is an application that help calculates .
+#### SalaryCalc is an application that help calculates your yearly salary based on your hourly wage and number of hours you work each week.
 
 ## ***Getting Started***
 ***
