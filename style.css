@@ -1,3 +1,7 @@
 .yearSalary {
     opacity: 0;
 }
+
+.showYearSalary {
+    opacity: 1;
+}
