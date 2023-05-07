@@ -12,7 +12,7 @@
 ### Click to use SalaryCalc: [SalaryCalc](Nolink)
 
 ![Image](ImageLINK)
-### Salary Calc is used to calculate your base salary by the hour:
+### Salary Calc is used to calculate your base salary by the hour and how many hours you make:
 * 
 
 ## ***Technologies Used***
